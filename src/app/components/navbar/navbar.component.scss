@@ -1,0 +1,13 @@
+.items {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+
+  .item {
+    padding: 20px;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
